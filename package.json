@@ -1,7 +1,8 @@
 {
   "name": "grocify-website",
   "private": true,
-  "homepage": "https://akashmondkar7.github.io/Grocify-Website",
+  "homepage":"https://github.com/akashmondkar7/Grocify-Website.git",
+
   "version": "0.0.0",
   "type": "module",
   "scripts": {
