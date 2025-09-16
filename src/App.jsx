@@ -1,3 +1,4 @@
+import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./components/Home/Home";
 import Fruits from "./components/Fruits/Fruits";
@@ -21,7 +22,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/Grocify-Website",
+    basename: "/Grocify-Website", 
   }
 );
 
